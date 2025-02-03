@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nagyhunor/.config/sublime-text/Packages/User/dotnet.sublime-build",
+		"/home/nagyhunor/.config/sublime-text/Packages/User/create_dotnet_project.py",
+		"/home/nagyhunor/Desktop/mate-panel-manager.desktop",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C#/rpg-game-cs/Program.cs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C#/hello-world-cs/MyProject/GuessingGame.cs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/writer-launcher-cpp/readme",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/writer-launcher-cpp/writer_launcher.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/sublime-launcher-cpp/readme",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/sublime-launcher-cpp/sublime_launcher.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/her-python/ai.sh",
+		"/home/nagyhunor/Downloads/RimPy_Linux/RimPy.sh",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/her-python/train.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/her-python/gui.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/googlenews-python/news.py",
+		"/home/nagyhunor/wget-log",
+		"/run/media/nagyhunor/KINGSTON/info fakt/hunor/Programozás/8 queen.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chatgptnews-python/chatgpt_automation.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chatgptnews-python/config.json",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/main.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/turnmech.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/gather.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/research.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/ai.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/wealth.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/combat.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/assets/game_data.json",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/tests/integration_tests.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/economic.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/diplomatic.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/military.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/mod.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/kingdom.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/src/lib.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/actions.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/resources.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/kingdom.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/utopiagame-r/main.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/passwordmanager-r/src/main.rs",
+		"/home/nagyhunor/Documents/nerdstuff/programming/RUST/passwordmanager-r/Cargo.toml",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/src/mainwindow.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/include/mainwindow.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/src/passwordmanager.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/include/passwordmanager.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/include/passwordentry.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/src/main.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/src/passwordentry.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/mainwindow.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/passwordentry.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/passwordmanager.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/mainwindow.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/main.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/CMakeLists.txt",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/passwordentry.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/passwordmanager.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/passwordsafe-cpp/include/passwordsafe/mainwindow.h",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C/car-rotation-c/main.c",
+		"/home/nagyhunor/Documents/iskola/töri/Tételek/date.py",
+		"/home/nagyhunor/Documents/iskola/töri/Tételek/rename_files.sh",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/car-rotation-cpp/main.c",
+		"/home/nagyhunor/Documents/nerdstuff/programming/TAIPAN/taipan-master/Programs/snake_game.taip",
+		"/home/nagyhunor/Documents/Megnem 6/House M.D/Season 2/second one 33:45 thank me later",
+		"/home/nagyhunor/Documents/nerdstuff/programming/taipan-1.0.0/Language/taipan_framework/taipan.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/TAIPAN/Language/setup.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/TAIPAN/LICENSE",
+		"/home/nagyhunor/Documents/nerdstuff/programming/TAIPAN/.gitignore",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/chords/simple_melody.yaml",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/chords/config.yaml",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/chords/funky_melody.yaml",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/chord_synth.kv",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/chords-music-python/chords/example.json",
+		"/home/nagyhunor/Documents/nerdstuff/programming/C++/fish-rotation-cpp/fish.cpp",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/usercrack-python/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/usercrack-python/unshadowed_nagyhunor.txt",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-text-editor/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-text-editor/kivymain.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-scp-webscraper/scraper.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-packet-sniffer/packet-sniffer.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-pong-ai/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-media-extractor/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/python-kivy-slots/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/blackjack-kivy-python/blackjack_game.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/pigeonrotate-python/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/gui-minesweeper-python/main.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/adam-ai-python/simple_mnist.py",
+		"/home/nagyhunor/Documents/nerdstuff/programming/PYTHON/gui-calculator-python/calculator.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "create_dotnet_project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

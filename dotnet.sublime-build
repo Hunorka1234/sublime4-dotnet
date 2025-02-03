@@ -1,0 +1,6 @@
+{
+    "cmd": ["bash", "-c", "mate-terminal --working-directory=\"$file_path\" & sleep 0.5 && xdotool type 'dotnet run' && xdotool key Return"],
+    "working_dir": "$file_path",
+    "selector": "source.cs",
+    "file_regex": "^\\s*([^\\(]*\\([^\\)]*\\))\\([0-9]+\\,[0-9]+\\)\\: (.*)$"
+}
